@@ -10,7 +10,7 @@ Firstly, we removed 9th grade reading and math scores from our data and replaced
 
 ![Grades Replaced With NaNs](Resources/grades_replaced_with_nans.png)
 
-#####Removing the grades affected the analysis:
+##### Removing the grades affected the analysis:
 
 - Brought overall district passing  average down to 64.9%.
 - Brought overall school passing average from 91% down to 65%.
