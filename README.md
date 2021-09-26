@@ -18,7 +18,7 @@ Firstly, we removed 9th grade reading and math scores from our data and replaced
 - There are no significant changes observed with spending range. 
 
 		The first chart outputs the original results, second chart is the updated results.
-![Thomas High School removed grades](Resources/post_analysis_results.png)
+![Thomas High School removed grades](Resources/pre_analysis_results.png)
 
 ![Thomas High School removed grades](Resources/post_analysis_results.png)
 
